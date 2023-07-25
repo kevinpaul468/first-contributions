@@ -5403,5 +5403,5 @@
 - [Anand Yadav](https://github.com/anandryadav)
 - [Cesare Ryan](https://github.com/r6047736)
 - [Guido Pierri](https://github.com/Guido-Pierri)
-- [Vipin K] (https://github.com/vipin-kunam/)
-- [Sumit Singh Deode] (https://github.com/deodesumitsingh)
+- [Vipin K](https://github.com/vipin-kunam/)
+- [Sumit Singh Deode](https://github.com/deodesumitsingh)
